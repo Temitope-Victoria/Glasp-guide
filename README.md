@@ -1,3 +1,5 @@
+![Glasp Logo](images/glasp.png)
+
  ## **Unique Features of Glasp, the Social Media Highlighter**
 
 
