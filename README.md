@@ -178,11 +178,11 @@ highlights on Twitter, Facebook, LinkedIn, and via mail.
 Various colors range from black, blue, and pink to the quote's
 background.
 
-> ![Glasp Quotes.](images/Glasp_quotes.jpg)
+> ![Glasp Quotes.](images/Glasp_quotes.png)
 
--   [Explore](https://glasp.co/explore/)
+-   [**Explore**](https://glasp.co/explore/)
 
-> ![Glasp Explore.](images/Glasp_Explore.jpg)
+> ![Glasp Explore.](images/Glasp_Explore.png)
 
 The Explore page shows authors or websites. The authors or websites are
 Glasp users or websites. These Glasp users have their websites and pages
@@ -242,7 +242,7 @@ subscription features: free, premium, and pro. Liner is available for
 desktop and mobile (iOS and Android) applications. The liner does not
 support importing highlights in Kindle as Glasp does.
 
-![Glasp Alternatives.](images/Glasp_Alternatives.jpg)
+![Glasp Alternatives.](images/Glasp_Alternatives.png)
 
 Source of Glasp alternative images:
 [https://glasp.co/articles/best-online-highlighters](https://glasp.co/articles/best-online-highlighters)
