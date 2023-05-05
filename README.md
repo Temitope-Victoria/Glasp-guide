@@ -1,7 +1,10 @@
-![Glasp Logo](images/glasp.png)
 
- ## **Unique Features of Glasp, the Social Media Highlighter**
+<p align = "center">
+  <img src = "./images/glasp.png">
+  </p>
 
+  #
+  <h1 align="center">Unique Features of Glasp, the Social Media Highlighter</h1>
 
 ### **TABLE OF CONTENTS**
 
